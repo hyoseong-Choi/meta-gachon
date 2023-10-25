@@ -8,6 +8,7 @@ public class MetaGachonApplication {
     
     public static void main(String[] args) {
         SpringApplication.run(MetaGachonApplication.class, args);
+        
     }
     
 }
